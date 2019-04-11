@@ -1,4 +1,4 @@
-package com.naemar.stockmanager;
+package main.java.com.naemar.stockmanager;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
