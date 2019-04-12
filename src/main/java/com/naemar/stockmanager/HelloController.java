@@ -1,4 +1,4 @@
-package main.java.com.naemar.stockmanager;
+package com.naemar.stockmanager;
 
 import java.util.Date;
 
